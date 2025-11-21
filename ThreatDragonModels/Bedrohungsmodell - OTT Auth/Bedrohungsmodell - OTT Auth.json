@@ -1667,7 +1667,17 @@
               "cell": "5f29630c-bbda-41be-9180-6051a7216183",
               "port": "b6f53a24-acb3-4b06-9702-623b868fb9d0"
             },
-            "vertices": []
+            "vertices": [],
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove",
+                "vertices",
+                "source-arrowhead",
+                "target-arrowhead"
+              ],
+              "name": null
+            }
           },
           {
             "shape": "flow",
